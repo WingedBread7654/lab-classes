@@ -61,7 +61,7 @@ public class Instructor
      */
     public void print()
     {
-        System.out.println(name + ", Instructor ID: " + id);
+        System.out.println(name + ", In ID: " + id);
     }
 
 }
